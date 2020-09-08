@@ -1,4 +1,4 @@
-Closure (first definition)- Being able to refer to a specific instance of a local binding in an enclosing scope. It basically allows you to make functions with functions. 
+_Closure_ (first definition)- Being able to refer to a specific instance of a local binding in an enclosing scope. It basically allows you to make functions with functions. 
 Closure (second definition) - A function that references bindings from local scopes around it.
 Function - a procedure: a set of statements that performs a task or calculates a value. It should take some input and return an output where there is an obvious relationship between input and output. 
 Primitive (primitive value / data type) - Data that is not an object and has no methods. There are 6 primitives: undefined, boolean, Number, String, BigInt, Symbol. 
@@ -17,12 +17,14 @@ Arithmetic - operations like addition, mod, subtraction, etc. Of course, the mai
 Special Numbers - Are considered numbers but don’t behave like normal ones. There are three total: infinity, -infinity, NaN. 
 Strings - They represent Text. Written using quotes, whether single, double, or backticks, they work.
 Scope - The part of the program in which a binding is visible. For bindings defined outside of a function or block, the scope encompasses the entire program - these bindings can be referred to anywhere in the program. 
-Block - The code inside of brackets (like in a function). They are used to group 0 or more statements. In languages other than JavaScript it is called a compound statement. 
+Block -  The code inside of brackets (like in a function). They are used to group 0 or more statements. In languages other than JavaScript it is called a compound statement. 
 Global - Used to describe bindings that are visible (can be used) anywhere in a program. Bindings declared with var in loops and functions are global. 
 Local - Refers to bindings that can only be accessed within a limited section of a program, such as let and const bindings created within the block of a function or in a function’s parameters.
 Environment - The area a function acts in. This includes the block as well as the area in the program where you called the function. 
 Nested Scope - Refers to when blocks or functions are created within another block or function: this produces a hierarchy or degree of locality. 
-Call Stack - The order the computer goes through when a function is called. 
+Call Stack - The order the computer goes through when a function is called. Since a function must return a value to the spot where it was called, the computer must remember the order/context in where each return statement should be sent. This data is stored in the call stack. 
+Lexical Scoping - Each local scope can see the local scopes that contain it, and all scopes can see the global scope. 
+
 
 
 
