@@ -23,3 +23,27 @@ Local - Refers to bindings that can only be accessed within a limited section of
 Environment - The area a function acts in. This includes the block as well as the area in the program where you called the function. 
 Nested Scope - Refers to when blocks or functions are created within another block or function: this produces a hierarchy or degree of locality. 
 Call Stack - The order the computer goes through when a function is called. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
