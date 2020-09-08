@@ -1,9 +1,9 @@
-_Closure_ (first definition)- Being able to refer to a specific instance of a local binding in an enclosing scope. It basically allows you to make functions with functions. 
-Closure (second definition) - A function that references bindings from local scopes around it.
-Function - a procedure: a set of statements that performs a task or calculates a value. It should take some input and return an output where there is an obvious relationship between input and output. 
-Primitive (primitive value / data type) - Data that is not an object and has no methods. There are 6 primitives: undefined, boolean, Number, String, BigInt, Symbol. 
-Parameter - The inputs of a function
-Body- Statements of code that runs in a function
+*Closure (first definition)- Being able to refer to a specific instance of a local binding in an enclosing scope. It basically allows you to make functions with functions. 
+*Closure (second definition) - A function that references bindings from local scopes around it.
+*Function - a procedure: a set of statements that performs a task or calculates a value. It should take some input and return an output where there is an obvious relationship between input and output. 
+*Primitive (primitive value / data type) - Data that is not an object and has no methods. There are 6 primitives: undefined, boolean, Number, String, BigInt, Symbol. 
+*Parameter - The inputs of a function
+*Body- Statements of code that runs in a function
 Value - Optional result to send back in a function using return statement. 
 Expression - A fragment of code that produces a value. “Every value that is written literally (such as 22 or "psychoanalysis") is an expression. An expression between parentheses is also an expression, as is a binary operator applied to two expressions or a unary operator applied to one.”
 Statement - “If an expression corresponds to a sentence fragment, a JavaScript statement corresponds to a full sentence. A program is a list of statements.”
