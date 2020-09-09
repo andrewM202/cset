@@ -50,7 +50,7 @@
 
 - **Lexical Scoping** : Each local scope can see the local scopes that contain it, and all scopes can see the global scope. 
 
-- **Recursion** : Is when a function calls itself. It is useful when you want to solve a problem by calculating every possibility to an answer until you find the right one. 
+- **Recursion** : Occurs when a function calls itself. It is useful when you want to solve a problem by calculating every possibility to an answer until you find the right one. 
 
 
 
