@@ -52,7 +52,37 @@
 
 - **Recursion** : Occurs when a function calls itself. It is useful when you want to solve a problem by calculating every possibility to an answer until you find the right one. 
 
+- **Method** : A method is just a special function. All methods are functions, not all functions are methods. The specialty of a method is just that they are tied to a specific object. For instance, round is a method of the round object, and log is a method of the console object. A specific example: (“string”).toUpperCase() is a method, while toUpperCase(“string”) is a function. 
 
+- **Pure function / Pure** : A function that has no side effects, and is not involved in any function with side effects.
+
+- **Hoisting** : Pre-ES6 term to describe how JavaScript separated declaration from initialization. Only declarations are hoisted. 
+
+- **Just in time compilation** : The program reads your code and then runs the code. (In Java I believe this is compile time and run time)
+
+- **Closures** : A function has created a local scope, and then that function has stopped running, and thus that local scope is not being used, but it sticks around because other values might be relying on that scope. You can’t access that function’s scope, but other things that relied on that scope still has access.
+
+- **Iterative** : Describes solutions that deal with one at a time, like a for loop looking through every number 1-100 for a solution. 
+
+- **Base Case** : refers to the terminating condition for a recursive function. It is always put above all the actual recursive calling: when the terminating condition is met the recursion ends and a solution has been found. 
+
+- **Rest Parameters** :
+
+- **Default Parameters** : 
+
+- **Synchronous Programming** :
+
+- **Stack Overflow** :
+
+- **Bit Overflow** :
+
+- **Call Stack Overflow** :
+
+- **Elegant Code vs Fast Code** : How elegant / how easy is it to read vs. how fast the code runs. If a super fast piece of code is super hard to understand, and it takes a week to make a change to it vs. a more “elegant” piece of code that is a slower piece of code, which one should we use? A game which has a close release date and needs optimizations, might use fast code mores than elegant code: cut corners to increase performance quickly. 
+
+- **Functional Programming** :
+
+- **Object Oriented Programming** :
 
 
 
