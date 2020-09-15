@@ -84,6 +84,27 @@
 
 - **Object Oriented Programming** :
 
+- **Early Exit** :
+
+- **Objects** : Allow us to group values, including other objects, to produce values. 
+
+- **Array** : A data type specifically for storing sequences of values. 
+
+- **Index** : 
+
+- **Properties** : The values connected to an object; its attributes. 
+
+- **Stack** : “A  data structure that allows you to push values into it and pop them out again in the opposite order so that the thing that was added last is removed first.”
+
+- **Immutability** : A value is immutable when it is impossible to change values of those types. Numbers, Strings, and Booleans are all immutable. 
+
+- **Correlation** : A measure of dependance between statistical variables
+
+- **Object literal** : 
+
+- **Address** : The place in memory a value is stored. 
+
+
 
 
 
