@@ -74,8 +74,6 @@
 
 - **Rest Parameters** : Allows a function to accept any number of parameters
 
-- **Default Parameters** : 
-
 - **Synchronous Programming** :
 
 - **Stack Overflow** :
