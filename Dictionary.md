@@ -96,7 +96,7 @@
 
 - **Array** : A data type specifically for storing sequences of values. 
 
-- **Index** : 
+- **Index** : The name for each spot in an array. Array indexes start at 0 and end at array.length - 1. 
 
 - **Properties** : The values connected to an object; its attributes. 
 
