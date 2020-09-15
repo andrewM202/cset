@@ -196,6 +196,8 @@
 
 - **array.concat(x)** ——> The concat method can be used to glue arrays together to create a new array, similar to what the + operator does for strings.
 
+- **array.length** ——> Returns the length of array
+
 
 
 
