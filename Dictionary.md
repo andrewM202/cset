@@ -120,81 +120,81 @@
 
 <h3> Math </h3>
 
-- (Math.random() * (max - min) + min) ——>  Generates a number between min(inclusive) and max(exclusive)
+- **Math.random() * (max - min) + min)** ——>  Generates a number between min(inclusive) and max(exclusive)
 
-- Math.round(x) ——> rounds number inside parentheses to nearest whole number
+- **Math.round(x)** ——> rounds number inside parentheses to nearest whole number
 
-- Math.floor(x) ——> rounds down to the nearest whole number
+- **Math.floor(x)** ——> rounds down to the nearest whole number
 
-- Math.ceil(x) ——> rounds up to the nearest whole number
+- **Math.ceil(x**) ——> rounds up to the nearest whole number
 
-- Math.abs()  ——> returns absolute value of a number
+- **Math.abs()**  ——> returns absolute value of a number
 
-- Math.PI() ——> returns the closest approximation of PI in JavaScript
+- **Math.PI()** ——> returns the closest approximation of PI in JavaScript
 
-- Math.max(low, high) and Math.min(low, high) ——> Returns the minimum between two values
+- **Math.max(low, high) and Math.min(low, high)** ——> Returns the minimum between two values
 
-- Math.pow(base, exponent) ——> Returns base to exponent power
+- **Math.pow(base, exponent)** ——> Returns base to exponent power
 
-- (x).toFixed(# of sig figs) ——> Adds significant digits to a number
+- **(x).toFixed(# of sig figs)** ——> Adds significant digits to a number
 
-- Math.sin/cos/tan/asin/acos/atan(angle) ——> returns trigonometry answers
+- **Math.sin/cos/tan/asin/acos/atan(angle)** ——> returns trigonometry answers
 
 <h3> Strings </h3>
 
-- charAt() ——> Returns the character at specified index
+- **charAt()** ——> Returns the character at specified index
 
-- toLowerCase() ——> returns string converted to lowercase
+- **toLowerCase()** ——> returns string converted to lowercase
 
-- toUpperCase() ——> returns string converted to uppercase
+- **toUpperCase()** ——> returns string converted to uppercase
 
-- (string name).length ——> returns length of string
+- **(string name).length** ——> returns length of string
 
-- “string”[n] ——> Will return the nth letter of “string”
+- **“string”[n]** ——> Will return the nth letter of “string”
 
-- (“string”).charCodeAt(x) ——> It returns the binary number at index x of “string”
+- **(“string”).charCodeAt(x)** ——> It returns the binary number at index x of “string”
 
-- “string”.indexOf(x) ——> returns first index of x in “string”. 
+- **“string”.indexOf(x)** ——> returns first index of x in “string”. 
 
-- “string”.slice(start, end) ——> Returns a string with elements between start and end (start is inclusive in returned array, end is not). If end is not given, gives entire string from start to “string”.length. 
+- **“string”.slice(start, end)** ——> Returns a string with elements between start and end (start is inclusive in returned array, end is not). If end is not given, gives entire string from start to “string”.length. 
 
-- “string”.trim() ——> removes whitespace (spaces, newlines, tabs, and similar characters) from the start and end of a string.
+- **“string”.trim()** ——> removes whitespace (spaces, newlines, tabs, and similar characters) from the start and end of a string.
 
-- “string”.padStart(amount, “character”) ——> adds amount number of “character” at the front of “string”
+- **“string”.padStart(amount, “character”)** ——> adds amount number of “character” at the front of “string”
 
-- “string”.split(“x”) ——> returns an array with all the pieces of “string” split at x
+- **“string”.split(“x”)** ——> returns an array with all the pieces of “string” split at x
 
-- array.join() ——> returns a string with all the strings inside the array joined. 
+- **array.join()**** ——> returns a string with all the strings inside the array joined. 
 
-- “string”.repeat(amount) ——> creates a new string containing multiple copies of the original string, glued together.
+- **“string”.repeat(amount)** ——> creates a new string containing multiple copies of the original string, glued together.
 
 <h3> Objects </h3>
 
-- Object.freeze(object name) ——> Once frozen, you can no longer add, update, or delete properties from the object
+- **Object.freeze(object name)** ——> Once frozen, you can no longer add, update, or delete properties from the object
 
-- delete (object).(property) ——>  It is a unary operator that, when applied to an object property, will remove the named property from the object.
+- **delete (object).(property)** ——>  It is a unary operator that, when applied to an object property, will remove the named property from the object.
 
-- Object.keys(object) ——> To find out what properties an object has, you can use the Object.keys function. You give it an object, and it returns an array of strings—the object’s property names.
+- **Object.keys(object)** ——> To find out what properties an object has, you can use the Object.keys function. You give it an object, and it returns an array of strings—the object’s property names.
 
-- Object.assign(objectA, objectB) ——> Copies all the properties from one object to another
+- **Object.assign(objectA, objectB)** ——> Copies all the properties from one object to another
 
 <h3> Arrays </h3>
 
-- array.pop() ——> Removes last value in array and returns it
+- **array.pop()** ——> Removes last value in array and returns it
 
-- array.push(x) ——> Adds value x to the ends of an array
+- **array.push(x)** ——> Adds value x to the ends of an array
 
-- array.shift() ——>  Removes an item from the beginning of an array
+- **array.shift()** ——>  Removes an item from the beginning of an array
 
-- array.unshift(x) ——> Adds x to beginning of array
+- **array.unshift(x)** ——> Adds x to beginning of array
 
-- array.indexOf(x) ——> Returns the first index of x in array, returns -1 if not found
+- **array.indexOf(x)** ——> Returns the first index of x in array, returns -1 if not found
 
-- array.lastIndexOf(x) ——> Returns the last index of x in array, returns -1 if not found
+- **array.lastIndexOf(x)** ——> Returns the last index of x in array, returns -1 if not found
 
-- array.slice(start, end) ——> Returns an array with elements between start and end (start is inclusive in returned array, end is not). If end is not given, gives entire array from start to array.length. 
+- **array.slice(start, end)** ——> Returns an array with elements between start and end (start is inclusive in returned array, end is not). If end is not given, gives entire array from start to array.length. 
 
-- array.concat(x) ——> The concat method can be used to glue arrays together to create a new array, similar to what the + operator does for strings.
+- **array.concat(x)** ——> The concat method can be used to glue arrays together to create a new array, similar to what the + operator does for strings.
 
 
 
