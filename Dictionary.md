@@ -148,7 +148,7 @@
 
 - “string”[n] ——> Will return the nth letter of “string”
 
--(“string”).charCodeAt(x) ——> It returns the binary number at index x of “string”
+- (“string”).charCodeAt(x) ——> It returns the binary number at index x of “string”
 
 - “string”.indexOf(x) ——> returns first index of x in “string”. 
 
