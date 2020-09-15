@@ -72,7 +72,7 @@
 
 - **Base Case** : refers to the terminating condition for a recursive function. It is always put above all the actual recursive calling: when the terminating condition is met the recursion ends and a solution has been found. 
 
-- **Rest Parameters** :
+- **Rest Parameters** : Allows a function to accept any number of parameters
 
 - **Default Parameters** : 
 
