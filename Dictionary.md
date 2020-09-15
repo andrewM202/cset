@@ -1,5 +1,7 @@
 ------------------------------------------------------------------------
+
 <h2> Definitions </h2>
+
 ------------------------------------------------------------------------
 
 - **Closure (first definition)** : Being able to refer to a specific instance of a local binding in an enclosing scope. It basically allows you to make functions with functions. 
@@ -111,7 +113,9 @@
 
 
 ------------------------------------------------------------------------
+
 <h2> Methods and Functions </h2>
+
 ------------------------------------------------------------------------
 
 <h3> Math </h3>
