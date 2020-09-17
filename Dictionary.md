@@ -180,7 +180,7 @@
 
 - **array.push(x)** ——> Adds value x to the end of an array
 
-- **array.shift()** ——>  Removes an item from the beginning of an array and returns it
+- **array.shift()** ——>  Removes first value in array and returns it
 
 - **array.unshift(x)** ——> Adds x to beginning of array
 
