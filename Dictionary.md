@@ -194,7 +194,7 @@
 
 - **array.length** ——> Returns the length of array
 
-- **array.join()**** ——> returns a string with all the strings inside the array joined. 
+- **array.join()** ——> returns a string with all the strings inside the array joined. 
 
 
 
