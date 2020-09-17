@@ -178,7 +178,7 @@
 
 - **array.pop()** ——> Removes last value in array and returns it
 
-- **array.push(x)** ——> Adds value x to the ends of an array
+- **array.push(x)** ——> Adds value x to the end of an array
 
 - **array.shift()** ——>  Removes an item from the beginning of an array and returns it
 
