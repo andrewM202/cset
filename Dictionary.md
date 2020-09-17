@@ -162,8 +162,6 @@
 
 - **“string”.split(“x”)** ——> returns an array with all the pieces of “string” split at x
 
-- **array.join()**** ——> returns a string with all the strings inside the array joined. 
-
 - **“string”.repeat(amount)** ——> creates a new string containing multiple copies of the original string, glued together.
 
 <h3> Objects </h3>
@@ -196,6 +194,7 @@
 
 - **array.length** ——> Returns the length of array
 
+- **array.join()**** ——> returns a string with all the strings inside the array joined. 
 
 
 
