@@ -201,6 +201,23 @@
 
 - **IP Address** - Represents a unique location on the web. They are a series of numbers and periods, like 24.124.325.52. DNS is created so that a url can be typed instead of the entire IP address: DNS match the IP with the web address. 
 
+<h3> HTML / CSS / JavaScript Definitions (as it applies to website creation) </h3>
+
+- **HTML / Hypertext markup language** - A markup language consisting of different elements you can wrap (mark up) content in to give it meaning (semantics) and structure. It is not a programming language. 
+
+- **CSS / Cascading Style Sheets** - A rule-based language used to apply styles to HTML
+
+- **HTML content** - Includes whatever is between the tags. 
+
+- **HTML element** - Includes the opening tag, closing tag, and content. 
+
+- **Attribute**s - Extra information about an element that does not appear in content. 
+
+- **JavaScript** - Used to add interactivity to web sites
+
+- **Empty elements** - Elements that have no content. For instance, the <img> tag. 
+
+
 ------------------------------------------------------------------------
 
 <h2> JavaScript Methods and Functions </h2>
@@ -300,7 +317,7 @@
 
 <h3> HTML Tags </h3>
 
-- **< h1 >** ——> Used to make a headers. Called a header tag.
+- **< h1 >-< h6 >** ——> Called a header. The smaller the number in the end the small the header text.
   
 - **< div >** ——> 
 
@@ -316,13 +333,13 @@
   
 - **< style >** -——>
 
-- **< ul >** ——>
+- **< ul >** ——> Unordered lists. Used for when order of elements does not matter, like a shopping list
   
-- **< ol >** ——>
+- **< ol >** ——> Ordered lists. Used for where order of elements does matter, like a recipe
   
-- **< li >** ——>
+- **< li >** ——> List item. 
   
-- **< a >** ——>
+- **< a >** ——> Anchor. Used to add links
 
 - **< img >** ——> 
 
@@ -330,7 +347,15 @@
 
 - **< link >** ——> 
 
-<h2> CSS </h2>
+<h3> HTML Attributes </h3>
+
+- **src** ——> Used inside of <img> tags to imbed an image. 
+
+- **alt** ——> Used inside of tags that have images. If the image does not load properly, the text appears. Also used for those who have vision problems. 
+
+- **href** ——> Used inside of <a> tags to add links. For example: <a href = “example.com”>text</a>
+
+<h3> CSS </h3>
 
 
 
