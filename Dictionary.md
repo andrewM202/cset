@@ -153,6 +153,54 @@
 
 - **HTML / Hypertext markup language** : a markup language consisting of different elements you can wrap (mark up) content in to give it meaning (semantics) and structure.
 
+- **CSS / Cascading Style Sheets** - A rule-based language used to apply styles to HTML
+
+- **JavaScript** - Used to add interactivity to web sites
+
+- **ISPs** - 
+
+- **Latency** - The delay in response between a user and a server. 
+
+- **Linters** - A tool that highlights places you have not followed a given set of rules properly
+
+- **Minifiers** - A tool that removes all the whitespace from code files
+
+- **Libraries and Frameworks** - Allow creation of certain types of websites very quickly
+
+- **Back-end / Service side languages** - A class of programming languages that are run on a server before the result is sent to a browser to be displayed. Includes ASP.NET, Python, PHP, and NodeJS. 
+
+- **Front-end / Client side languages** - A class of Programming languages that are run by a browser to produce a website front-end for users. Includes JavaScript, Html, and CSS, 
+
+- **Performance** - Getting websites to load as quickly as possible.
+
+- **Accessibility** - Making websites usable by as many types of people as possible. Includes those with audio or visual impairments, or physical or cognitive disabilities. 
+
+- **Internationalization** - Making website usable by people who speak different languages
+
+- **Responsive web design** - Practice of making functionality and layouts flexible so they can adapt to different browsers. 
+
+- **Privacy** - Not spying on people, and collecting the minimum amount of data possible
+
+- **Security** - Constructing website in a secure way so malicious users cannot steal information 
+
+- **Cross-browser compatibility** - The practice of making a webpage available to as many users as possible. 
+
+- **Clients** - The typical web user’s inter-connected devices and web accessing software on those devices.
+
+- **Servers** - Computers that store webpages, sites, or apps. When a client device wants to access a webpage, a copy of the webpage is downloaded from the server onto the client machine to be displayed in the user's web browser.
+
+- **DNS / Domain Name Servers** - Similar to address book for websites. A web address typed in a browser looks at the DNS to find the website’s real address before it can retrieve the website. 
+
+- **TCP/IP** - Stands for Transmission Control Protocol and Internet Protocol. They are communication protocols that define how data should travel across the internet. 
+
+- **Internet connection** - Allows sending and receiving of data on the web. 
+
+- **Component files** - The main files a website is built on, which include code and asset files. Code files are mainly HTML, CSS, and JavaScript while Asset files are things like images, videos, pdfs, and word documents. 
+
+- **Data packets** - Used to send website files as a series of small pieces 
+
+- **IP Address** - Represents a unique location on the web. They are a series of numbers and periods, like 24.124.325.52. DNS is created so that a url can be typed instead of the entire IP address: DNS match the IP with the web address. 
+
 ------------------------------------------------------------------------
 
 <h2> JavaScript Methods and Functions </h2>
@@ -252,28 +300,35 @@
 
 <h3> HTML Tags </h3>
 
-- **< h1 >** --->
+- **< h1 >** ——> Used to make a headers. Called a header tag.
   
-- **< div >** ---> 
-  
-- **< head >** ---> 
-  
-- **< body >** ---> 
-  
-- **< script >** ---> 
-  
-- **< html >** ---> 
-  
-- **< style >** ---> 
+- **< div >** ——> 
 
-- **< ul >** ---> 
+- **< p >** ——> Used to make paragraphs. Called a paragraph tag. 
   
-- **< ol >** ---> 
+- **< head >** ——> 
   
-- **< li >** ---> 
+- **< body >** ——>
   
-- **< a >** --->
+- **< script >** ——>
+  
+- **< html >** ——>
+  
+- **< style >** -——>
 
+- **< ul >** ——>
+  
+- **< ol >** ——>
+  
+- **< li >** ——>
+  
+- **< a >** ——>
+
+- **< img >** ——> 
+
+- **< iframe >** ——> 
+
+- **< link >** ——> 
 
 <h2> CSS </h2>
 
