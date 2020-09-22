@@ -4,6 +4,8 @@
 
 ------------------------------------------------------------------------
 
+<h3> JavaScript Definitions </h3>
+
 - **Closure (first definition)** : Being able to refer to a specific instance of a local binding in an enclosing scope. It basically allows you to make functions with functions. 
 
 - **Closure (second definition)** : A function that references bindings from local scopes around it.
@@ -108,7 +110,47 @@
 
 - **Address** : The place in memory a value is stored. 
 
+- **Serialization : It is used to convert data into a flat description. 
 
+- **Variadic Function : A function that accepts an infinite or variable number of arguments. 
+
+- **Class** : It is the factory that builds all the different instances of things. 
+
+- **Protypical Language** : Everything in JavaScript is based off of what is called JavaScript. Math is a prototype object, it is treated like an object but it has a few small differences.
+
+- **Compiler** : A computer program that translates one computer language into another. Often used for translating source code from a high level language into a lower one. 
+
+- **Interpreter** : Interacts with compiler. 
+
+- **Data Structures** : Generally based on the ability of a computer to fetch and store data at any place in its memory, specified by a pointer—a bit string, representing a memory address, that can be itself stored in memory and manipulated by the program.
+
+- **Abstract Data Types (ADT)** : Data structures serve as basis for. Is the mathematical model for data structures. 
+
+- **Instances** : 
+
+- **Prototypes** : JavaScript uses prototypes instead of classes. 
+
+<h3> Web Development Definitions </h3> 
+
+- **Web standards** : The technologies used to build websites. 
+
+- **Specifications** : Technical documents which detail how web standards work. They are used by software engineers to implement web standards. Once instance is the HTML Living Standard, which details how HTML is implemented. 
+
+- **Standards bodies** :Institutions that have famous technology company representatives discuss how to use web standards to fill each of their interests to the fullest extent. Examples are W3C (most known), WHATWG (modernized HTML), ECMA (published ECMAScript JavaScript is based on), and KHRONOS (publish 3D graphics technologies like WebGL)
+
+- **Backwards and Forwards open web standard compatibility** : Any newly introduced web technology is compatible with older websites / what came before it, and future technologies will also be compatible with newly introduced web technology
+
+- **Web Browsers** : Software programs people use to consume the web, include: Firefox, Chrome, Opera, Safari, Edge, Brave
+
+- **Web Protocols** :
+
+- **HTTP / Hypertext Transfer Protocol** : A messaging protocol that allows web browsers to communicate with web servers
+
+- **Web servers** : Where websites are stored
+
+- **Requests and Responses** : The name for the syntax of HTTP messages
+
+- **HTML / Hypertext markup language** : a markup language consisting of different elements you can wrap (mark up) content in to give it meaning (semantics) and structure.
 
 ------------------------------------------------------------------------
 
