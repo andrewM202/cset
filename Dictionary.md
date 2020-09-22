@@ -347,13 +347,58 @@
 
 - **< link >** ——> 
 
+- < strong > ——>
+
+- **< b > ——>
+
+- **< title > ——>
+
+- **< main > ——> 
+
+- **< footer > ——> 
+
+- **< nav >** ——> 
+
+- **< video >** ——>
+
+- **< article >** ——> 
+
+- **< section >** ——> 
+
+- **< input >** ——> Attributes are placeholder, required, type 
+
+- **< form >** ——> Used to web build forms that submit data to a web server. Attributes are action, 
+
+- **< button >** ——> Adds a button. Attributes are submit, 
+
+- **< label >** ——> 
+
+
 <h3> HTML Attributes </h3>
 
-- **src** ——> Used inside of <img> tags to imbed an image. 
+- **src** ——> Used inside of < img > tags to imbed an image URL. 
 
-- **alt** ——> Used inside of tags that have images. If the image does not load properly, the text appears. Also used for those who have vision problems. 
+- **alt** ——> Used inside of tags that have images. If the image does not load properly, the text appears. Also used for those who have vision problems. All image elements must have an alt attribute.
 
-- **href** ——> Used inside of <a> tags to add links. For example: <a href = “example.com”>text</a>
+- **href** ——> Used inside of < a > tags to add links. For example: < a href = “example.com” >text< /a >. It contains URL address of a link. 
+
+- **target** ——> An anchor tag attribute specifies where to open a link. The value “_blank” specifies to open a link to a new tab. 
+
+- **type** ——> Used in input tags to specific what kind of input. Values are text, 
+
+- **placeholder** ——> Used for input tag. What is displayed in an input element before user has inputted anything.
+
+- **action** ——> Used in form tag. The value that action holds is where the value inside of the form tags is sent to. 
+
+- **submit** ——-> Used in button tag. It allows data to be sent from a form to a url when the button is clicked. 
+
+- **required** ——> Makes specific forms required so user cannot submit them until they are filled out. 
+
+- **radio** ——> 
+
+<h3> Misc HTML </h3>
+
+- **Comments** ——> Start a comment with <!— and it that comment with —>
 
 <h3> CSS </h3>
 
