@@ -398,7 +398,7 @@
 
 <h3> Misc HTML </h3>
 
-- **Comments** ——> Start a comment with <!— and it that comment with —>
+- **Comments** ——> Start a comment with <!— and end that comment with —>
 
 <h3> CSS </h3>
 
