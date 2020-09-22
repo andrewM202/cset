@@ -151,7 +151,7 @@
 
 - **Requests and Responses** : The name for the syntax of HTTP messages
 
-- **HTML / Hypertext markup language** : a markup language consisting of different elements you can wrap (mark up) content in to give it meaning (semantics) and structure.
+- **HTML / Hypertext markup language** : A markup language consisting of different elements you can wrap (mark up) content in to give it meaning (semantics) and structure. It is not a programming language. 
 
 - **CSS / Cascading Style Sheets** - A rule-based language used to apply styles to HTML
 
