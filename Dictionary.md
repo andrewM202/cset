@@ -110,9 +110,9 @@
 
 - **Address** : The place in memory a value is stored. 
 
-- **Serialization : It is used to convert data into a flat description. 
+- **Serialization** : It is used to convert data into a flat description. 
 
-- **Variadic Function : A function that accepts an infinite or variable number of arguments. 
+- **Variadic Function** : A function that accepts an infinite or variable number of arguments. 
 
 - **Class** : It is the factory that builds all the different instances of things. 
 
