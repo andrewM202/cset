@@ -6,6 +6,7 @@
 
 <h3> JavaScript Definitions </h3>
 
+
 - **Closure (first definition)** : Being able to refer to a specific instance of a local binding in an enclosing scope. It basically allows you to make functions with functions. 
 
 - **Closure (second definition)** : A function that references bindings from local scopes around it.
