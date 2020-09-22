@@ -112,7 +112,7 @@
 
 ------------------------------------------------------------------------
 
-<h2> Methods and Functions </h2>
+<h2> JavaSCript Methods and Functions </h2>
 
 ------------------------------------------------------------------------
 
@@ -196,9 +196,16 @@
 
 - **array.join()** ——> returns a string with all the strings inside the array joined. 
 
+- **array.flat(depth)** ——> If arrays are nested inside each other, it removes the nesting up to depth number of levels and puts all of the values in the nested arrays into one returned array. If no depth is given, it removes all nested arrays and places all values inside of one returned array. 
 
 
 
+
+------------------------------------------------------------------------
+
+<h2> HTML TAGS </h2>
+
+------------------------------------------------------------------------
 
 
 
