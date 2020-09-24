@@ -317,7 +317,7 @@
 
 <h3> HTML Tags </h3>
 
-- **< h1 >-< h6 >** ——> Called a header. The smaller the number in the end the small the header text.
+- **< h1 >-< h6 >** ——> Called a header. Contains machine-readable information / metadata about a document, like title, script, and style sheets
   
 - **< div >** ——> 
 
@@ -325,13 +325,13 @@
   
 - **< head >** ——> 
   
-- **< body >** ——>
+- **< body >** ——> The content of the HTML document goes inside
   
 - **< script >** ——>
   
 - **< html >** ——>
   
-- **< style >** -——>
+- **< style >** -——> Contains style/css information for a document
 
 - **< ul >** ——> Unordered lists. Used for when order of elements does not matter, like a shopping list
   
@@ -339,19 +339,19 @@
   
 - **< li >** ——> List item. 
   
-- **< a >** ——> Anchor. Used to add links
+- **< a >** ——> Anchor tag. Used to link to other files / webpages. 
 
-- **< img >** ——> 
+- **< img >** ——> Used to add images. Attributes are src, alt, 
 
 - **< iframe >** ——> 
 
 - **< link >** ——> 
 
-- **< strong >** ——>
+- **< strong >** ——> Creates bold text. 
 
 - **< b >** ——>
 
-- **< title >** ——>
+- **< title >** ——> This displays a name in the tab of the webpage in your browser, and is also use for search engine results
 
 - **< main >** ——> 
 
@@ -372,6 +372,25 @@
 - **< button >** ——> Adds a button. Attributes are submit, 
 
 - **< label >** ——> 
+
+- **< main >** ——> Represents dominant content in body
+
+- **< section >** ——> Represents a standalone section in a website
+
+- **< span >** ——>
+
+- **< table >** ——>
+
+- **< tr >** ——>
+
+- **< th >** ——>
+
+- **< em >** ——> Emphasis, creates italicized text
+
+- **< br/ >** ——> Creates a breakline in text
+
+- **< hr/ >** ——> Creates a horizontal line for thematic purposes
+
 
 
 <h3> HTML Attributes </h3>
