@@ -5,6 +5,8 @@
 ------------------------------------------------------------------------
 
 <h3> Useful links to find these definitions and examples of them </h3>
+
+
 - **Eloquent JavaScript** (https://eloquentjavascript.net/)
 - **MDN elements reference** (https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
