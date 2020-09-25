@@ -365,6 +365,8 @@
   
 - **< div >** ——> 
 
+- **< span >** ——> 
+
 - **< p >** ——> Used to make paragraphs. Called a paragraph tag. 
   
 - **< head >** ——> 
