@@ -214,15 +214,52 @@
 
 - **CSS / Cascading Style Sheets** - A rule-based language used to apply styles to HTML
 
-- **HTML content** - Includes whatever is between the tags. 
-
 - **HTML element** - Includes the opening tag, closing tag, and content. 
 
-- **Attribute**s - Extra information about an element that does not appear in content. 
+- **Attributes** - Extra information about an element that does not appear in content. 
 
 - **JavaScript** - Used to add interactivity to web sites
 
 - **Empty elements** - Elements that have no content. For instance, the <img> tag. 
+
+- **Metadata** - Metadata is written in the < head > tag.
+
+- **Block-level-elements / flow content** - Always drawn on a new line
+
+- **Inline elements / phrasing content** - Can affect sections of text anywhere in a line
+
+- **Web typography** - refers to the appearance of all the text on your website
+
+- **URL** - Uniform resource locators. There are three kinds: relative, root-relative, absolute. 
+
+- **File** - 
+
+- **Types of links** - Relative, root-relative, absolute. 
+
+<h3>Types of content</h3>
+
+- **HTML content** - Includes whatever is between the tags. Content goes between the < body > tags. 
+
+- **Flow content** - Includes phrasing content, but also stuff like < p > and < h1 > which define a whole block of text. According to MDN, it typically contains text or embedded content.
+
+- **Phrasing content** - If it can be inside of a sentence, it’s phrasing content. According to MDN, phrasing content marks the text and the markup it contains
+
+- **Text content** - 
+
+- **Inline type Semantics**
+
+- **Image and multimedia** - 
+
+- **Embedded Content** - 
+
+- **Scripting** - 
+
+- **Demarcating edits** - 
+
+- **Table conten**t - 
+
+- **Forms** - 
+
 
 
 ------------------------------------------------------------------------
