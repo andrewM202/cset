@@ -9,7 +9,7 @@
 
 - **Eloquent JavaScript** (https://eloquentjavascript.net/)
 - **MDN elements reference** (https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- **Markup validator (https://validator.w3.org/)
+- **Markup validator** (https://validator.w3.org/)
 
 
 <h3> JavaScript Definitions </h3>
