@@ -401,6 +401,8 @@
 
 - **< footer >** ——> 
 
+- **< header >** ——>
+
 - **< nav >** ——> 
 
 - **< video >** ——>
@@ -435,7 +437,9 @@
 
 - **< hr/ >** ——> Creates a horizontal line for thematic purposes
 
+- **< sub >** ———> Creates subscript
 
+- **< sup >** ———> Creates superscript
 
 <h3> HTML Attributes </h3>
 
