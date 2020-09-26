@@ -12,6 +12,7 @@
 - **Markup validator** (https://validator.w3.org/)
 - **Transparent Textures** (https://www.transparenttextures.com/)
 - **Recommended Elements CSET** (https://ts-cset.github.io/cset-110/2020-fall/week-01/cset-element-reference.html)
+- **Color codes** (https://htmlcolorcodes.com/)
 
 
 <h3> JavaScript Definitions </h3>
