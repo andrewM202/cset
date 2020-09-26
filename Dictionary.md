@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-<h3> Useful links to find these definitions and examples of them </h3>
+<h3> Useful links </h3>
 
 
 - **Eloquent JavaScript** (https://eloquentjavascript.net/)
