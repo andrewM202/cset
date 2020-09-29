@@ -524,13 +524,13 @@
 
 - **background-color** ——> (silver, red)
 
-- background-image ——> url(urlhere.png);
+- **background-image** ——> url(urlhere.png);
 
-- background-position ——>
+- **background-position** ——>
 
-- background-repeat ——> (repeat-x)
+- **background-repeat** ——> (repeat-x)
 
-- background-attachment ——> (fixed)
+- **background-attachment** ——> (fixed)
 
 - **font-family** ——> (ariel, serif) Can import new fonts using google fonts or other, using < link > tag.
 
