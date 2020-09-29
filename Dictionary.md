@@ -571,7 +571,7 @@
 
 <h3> LISTS </h3>
 
-- list-style-type ——> Values include: none, disc, decimal, circle, square, kannada, korean-hangul-formal, and many more. All values: (https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type) 
+- **list-style-type** ——> Values include: none, disc, decimal, circle, square, kannada, korean-hangul-formal, and many more. All values: (https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type) 
 
 - **list-style** ——>
 
