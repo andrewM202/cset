@@ -479,6 +479,8 @@
 
 - **radio** ——> 
 
+- **id** ——> Used to style a single element in CSS
+
 <h3> Misc HTML </h3>
 
 - **Comments** ——> Start a comment with <!— and end that comment with —>
