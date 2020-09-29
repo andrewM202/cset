@@ -241,6 +241,8 @@
 
 - **Types of links** - Relative, root-relative, absolute. 
 
+- **Document Object Model (DOM)** -
+
 <h3>Types of content</h3>
 
 - **HTML content** - Includes whatever is between the tags. Content goes between the < body > tags. 
@@ -251,7 +253,9 @@
 
 - **Text content** - 
 
-- **Inline type Semantics**
+- **Inline type Semantics** - Example is < span > tag. 
+
+- **Block type Semantics** - Example is < div > tag.
 
 - **Image and multimedia** - 
 
@@ -265,6 +269,15 @@
 
 - **Forms** - 
 
+- **JPGs** - “Designed for handling large color palettes without exorbitantly increasing file size. This makes them great for photos and images with lots of gradients in them.”
+
+- **GIFs** - “The go-to option for simple animations, but the trade off is that they’re somewhat limited in terms of color palette—never use them for photos.”
+
+- **PNGs** - “Great for anything that’s not a photo or animated. For photos, a PNG file of the same quality (as perceived the human eye) would generally be bigger than an equivalent JPG file. However, they do deal with opacity just fine, and they don’t have color palette limitations. This makes them an excellent fit for icons, technical diagrams, logos, etc.”
+
+- **SVGs** - “…a vector-based graphics format, meaning it can scale up or down to any dimension without loss of quality. This property makes SVG images a wonderful tool for responsive design.”
+
+- **Responsive design** - 
 
 
 ------------------------------------------------------------------------
