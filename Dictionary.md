@@ -512,6 +512,8 @@
 
 - **id** ——> Used to style a single element in CSS
 
+- **class** ——> Used to style multiple elements in CSS. Refers to using .(name) notation
+
 <h3> Misc HTML </h3>
 
 - **Comments** ——> Start a comment with <!— and end that comment with —>
@@ -522,6 +524,14 @@
 
 - **background-color** ——> (silver, red)
 
+- background-image ——> url(urlhere.png);
+
+- background-position ——>
+
+- background-repeat ——> (repeat-x)
+
+- background-attachment ——> (fixed)
+
 - **font-family** ——> (ariel, serif) Can import new fonts using google fonts or other, using < link > tag.
 
 - **font-weight** ——> (normal, bold, lighter, bolder, 100, 900) Sets boldness of font
@@ -530,13 +540,40 @@
 
 - **font-size** ——> (15px)
 
-- **list-style** ——>
-
 - **text-decoration** ——>
 
 - **text-transform** ——>
 
+- **text-align** ——> (right, left, center, justify)
+
 - **width and height** ——> (20px, 30%)
+
+- **em** - stands for elastic width, and it is a relative unit of measurement. 
+
+- **vh/vw** - stands for viewport height and viewport width. Used to set height and width in CSS
+
+- **padding**  ——>  “…controls the amount of space between an elements content and its border.” Ex of close wise notation: padding: 20px 40px 30px 10px;. Starts at top and ends at left
+
+- **padding-right, padding-left, padding-top, padding-bottom** ——> 
+
+- **border**  ——>  “…controls the amount of space between an element’s border and its surrounding elements”
+
+- **margin**  ——>  “…controls the amount of space between and element’s border and surrounding elements.” A negative margin will make the element become larger. Ex of close wise notation: margin: 20px 40px 30px 10px;. Starts at top and ends at left
+
+- **margin-right, margin-left, margin-top, margin-bottom** ——>  
+- **relative units** ——>  em (based on the size of an element’s font), rem
+
+- **!important**  ——>  Makes sure that that css property overrides all other properties. (color: pink !important;)
+
+- **--(name)=“example”**  ——>  creates a CSS variable. Reference example after creation: (background-color: var(—example-variable, fallback-value))
+
+- **transform** ——>
+
+<h3> LISTS </h3>
+
+- list-style-type ——> Values include: none, disc, decimal, circle, square, kannada, korean-hangul-formal, and many more. All values: (https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type) 
+
+- **list-style** ——>
 
 <h3> CSS BORDERS </h3>
 
@@ -548,6 +585,25 @@
 
 - **border-radius** -——> (10px, 50% - makes a circle, )
 
+<h3> STYLE BASED ON STATE </h3>
+
+- **a:link** ——>
+
+- **a:visited** ——>
+
+- **a:hover** ——>
+
+<h3> FUNCTIONS </h3>
+
+- **calc()** ——>
+
+- **rotate([0-1]turn)** ——> Used with transform
+
+<h3> @rules </h3>
+
+- **@import ‘stylesheetname’;** ——> imports a stylesheet into another stylesheet
+
+- **@media** ——> “Imports media queries, which use conditional logic for applying CSS styling”. For instance, @media (min-width: 25em) { … }, which applies the CSS in the curly brackets if the viewport is wider than 25em
 
 
 
