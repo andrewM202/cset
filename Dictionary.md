@@ -396,7 +396,7 @@
 
 - **< iframe >** ——> 
 
-- **< link >** ——> 
+- **< link >** ——> Used to link different files together, like an html file with your css and .js files. Also useful for adding in things from open source websites, like transparent-textures. 
 
 - **< strong >** ——> Creates bold text. 
 
