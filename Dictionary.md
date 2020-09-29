@@ -548,10 +548,6 @@
 
 - **width and height** ——> (20px, 30%)
 
-- **em** - stands for elastic width, and it is a relative unit of measurement. 
-
-- **vh/vw** - stands for viewport height and viewport width. Used to set height and width in CSS
-
 - **padding**  ——>  “…controls the amount of space between an elements content and its border.” Ex of close wise notation: padding: 20px 40px 30px 10px;. Starts at top and ends at left
 
 - **padding-right, padding-left, padding-top, padding-bottom** ——> 
@@ -568,6 +564,16 @@
 - **--(name)=“example”**  ——>  creates a CSS variable. Reference example after creation: (background-color: var(—example-variable, fallback-value))
 
 - **transform** ——>
+
+<h3> Misc values <h3>
+  
+- **em** - stands for elastic width, and it is a relative unit of measurement. 
+
+- **vh/vw** - stands for viewport height and viewport width. Used to set height and width in CSS
+
+- **px** - Stands for pixels
+
+- **%** - Sometimes percentages can be used
 
 <h3> LISTS </h3>
 
