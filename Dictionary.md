@@ -213,11 +213,11 @@
 
 - **IP Address** - Represents a unique location on the web. They are a series of numbers and periods, like 24.124.325.52. DNS is created so that a url can be typed instead of the entire IP address: DNS match the IP with the web address. 
 
-<h3> HTML / CSS / JavaScript Definitions (as it applies to website creation) </h3>
+<h2> HTML / CSS / JavaScript Definitions (as it applies to website creation) </h2>
+
+<h3> HTML </h3>
 
 - **HTML / Hypertext markup language** - A markup language consisting of different elements you can wrap (mark up) content in to give it meaning (semantics) and structure. It is not a programming language. 
-
-- **CSS / Cascading Style Sheets** - A rule-based language used to apply styles to HTML
 
 - **HTML element** - Includes the opening tag, closing tag, and content. 
 
@@ -241,7 +241,35 @@
 
 - **Types of links** - Relative, root-relative, absolute. 
 
-- **Document Object Model (DOM)** -
+- **Document Object Model (DOM)** - Has a tree-like structure with a bunch of nodes. “Each element, attribute, and text in markup language becomes a DOM node. Nodes are defined by their relationship to other nodes.”
+
+<h3> CSS </h3>
+
+- **CSS / Cascading Style Sheets** - A rule-based language used to apply styles to HTML
+
+- **Style sheet language** - A language to declare a list of rules to define a page’s style
+
+- **Rulesets** - Groups of rules to effect some HTML
+
+- **Selectors** - The HTML elements targeted by a ruleset
+
+- **CSS Declaration** - What the pairing of a property and a value is called. 
+
+- **Properties** - The attribute we are changing
+
+- **Values** - The style we are changing it to
+
+- **Pseudo-class selectors** - 
+
+- **Pseudo-elements** - 
+
+- **Combinators** - 
+
+- **Comments** - Do with /*   ….    */
+
+- **Cascade rule** - “Later styles replace conflicting styles that appear earlier in the stylesheet.”
+
+- **Specificity** - Decides what will load in CSS, no matter the cascade rule: inline styles > page-specific styles > external styles > user-defined stylesheets > browser’s default stylesheet
 
 <h3>Types of content</h3>
 
@@ -277,7 +305,10 @@
 
 - **SVGs** - “…a vector-based graphics format, meaning it can scale up or down to any dimension without loss of quality. This property makes SVG images a wonderful tool for responsive design.”
 
-- **Responsive design** - 
+- **Responsive design** - Website changes depending on device/screen size the user uses. 
+
+- **div soup** - nesting endless divs into each other
+
 
 
 ------------------------------------------------------------------------
