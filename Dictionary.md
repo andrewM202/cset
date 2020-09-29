@@ -368,19 +368,19 @@
 
 - **< h1 >-< h6 >** ——> Called a header. Contains machine-readable information / metadata about a document, like title, script, and style sheets
   
-- **< div >** ——> 
+- **< div >** ——> Only used for semantics. Use for block level semantics
 
-- **< span >** ——> 
+- **< span >** ——> Only semantic use, it is in-line which is different from < div > which is used for block semantics.
 
 - **< p >** ——> Used to make paragraphs. Called a paragraph tag. 
   
-- **< head >** ——> 
+- **< head >** ——> Is the area where metadata is put, always goes after the < html > tag. 
   
 - **< body >** ——> The content of the HTML document goes inside
   
-- **< script >** ——>
+- **< script >** ——> JavaScript can be run inbetween the < script > tag.
   
-- **< html >** ——>
+- **< html >** ——> Used to designate where html runs in a file. 
   
 - **< style >** -——> Contains style/css information for a document
 
@@ -394,29 +394,27 @@
 
 - **< img >** ——> Used to add images. Attributes are src, alt, 
 
-- **< iframe >** ——> 
+- **< iframe >** ——> Allows a website to run inside of your website. 
 
 - **< link >** ——> Used to link different files together, like an html file with your css and .js files. Also useful for adding in things from open source websites, like transparent-textures. 
 
 - **< strong >** ——> Creates bold text. 
 
-- **< b >** ——>
-
 - **< title >** ——> This displays a name in the tab of the webpage in your browser, and is also use for search engine results
 
-- **< main >** ——> 
+- **< main >** ——> Semantic use: designate where the main content in your file is.
 
-- **< footer >** ——> 
+- **< footer >** ——> Semantic use: designate where the footer content of your website is.
 
-- **< header >** ——>
+- **< header >** ——> Semantic use: designare where the header content of website is.
 
-- **< nav >** ——> 
+- **< nav >** ——> Used to designate the area where a navigation is made.
 
 - **< video >** ——>
 
 - **< article >** ——> 
 
-- **< section >** ——> 
+- **< section >** ——> Semantic use: creates sections in code
 
 - **< input >** ——> Attributes are placeholder, required, type 
 
@@ -430,13 +428,11 @@
 
 - **< section >** ——> Represents a standalone section in a website
 
-- **< span >** ——>
+- **< table >** ——> Used to make a table
 
-- **< table >** ——>
+- **< tr >** ——> Table row
 
-- **< tr >** ——>
-
-- **< th >** ——>
+- **< th >** ——> Table header
 
 - **< em >** ——> Emphasis, creates italicized text
 
@@ -476,15 +472,17 @@
 
 <h3> GENERAL CSS </h3>
 
-- **color** ——>
+- **color** ——> (red, green)
 
 - **background-color** ——> (silver, red)
 
-- **font-family** ——>
+- **font-family** ——> (ariel, serif) Can import new fonts using google fonts or other, using < link > tag.
 
-- **font-weight** ——>
+- **font-weight** ——> (normal, bold, lighter, bolder, 100, 900) Sets boldness of font
 
-- **font-style** ——>
+- **font-style** ——> (normal, italic, oblique, etc)
+
+- **font-size** ——> (15px)
 
 - **list-style** ——>
 
@@ -492,7 +490,7 @@
 
 - **text-transform** ——>
 
-- **width and height** ——>
+- **width and height** ——> (20px, 30%)
 
 <h3> CSS BORDERS </h3>
 
