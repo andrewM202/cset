@@ -14,7 +14,7 @@
 - **Recommended Elements CSET** (https://ts-cset.github.io/cset-110/2020-fall/week-01/cset-element-reference.html)
 - **Color codes** (https://htmlcolorcodes.com/)
 - **Google Fonts** (https://fonts.google.com/)
-
+- **CSS Zen Garden** (http://www.csszengarden.com/)
 
 <h3> JavaScript Definitions </h3>
 
