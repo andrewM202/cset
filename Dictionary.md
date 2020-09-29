@@ -474,8 +474,35 @@
 
 - **Comments** ——> Start a comment with <!— and end that comment with —>
 
-<h3> CSS </h3>
+<h3> GENERAL CSS </h3>
 
+- **color** ——>
+
+- **background-color** ——> (silver, red)
+
+- **font-family** ——>
+
+- **font-weight** ——>
+
+- **font-style** ——>
+
+- **list-style** ——>
+
+- **text-decoration** ——>
+
+- **text-transform** ——>
+
+- **width and height** ——>
+
+<h3> CSS BORDERS </h3>
+
+- **border-color** ——> (red)
+
+- **border-width** ——> (5px)
+
+- **border-style** ——> (solid)
+
+- **border-radius** -——> (10px, 50% - makes a circle, )
 
 
 
