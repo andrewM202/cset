@@ -559,8 +559,7 @@
 
 - **margin**  ——>  “…controls the amount of space between and element’s border and surrounding elements.” A negative margin will make the element become larger. Ex of close wise notation: margin: 20px 40px 30px 10px;. Starts at top and ends at left
 
-- **margin-right, margin-left, margin-top, margin-bottom** ——>  
-- **relative units** ——>  em (based on the size of an element’s font), rem
+- **margin-right, margin-left, margin-top, margin-bottom** ——> 
 
 - **!important**  ——>  Makes sure that that css property overrides all other properties. (color: pink !important;)
 
