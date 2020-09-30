@@ -270,7 +270,7 @@
 
 - **Cascade rule** - “Later styles replace conflicting styles that appear earlier in the stylesheet.”
 
-- **Specificity** - Decides what will load in CSS, no matter the cascade rule: inline styles > page-specific styles > external styles > user-defined stylesheets > browser’s default stylesheet
+- **Specificity** - Decides what will load in CSS, no matter the cascade rule: inline styles > id > class > external styles > user-defined stylesheets > browser’s default stylesheet
 
 <h3>Types of content</h3>
 
