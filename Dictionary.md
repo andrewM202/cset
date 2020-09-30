@@ -17,6 +17,7 @@
 - **CSS Zen Garden - Examples CSS Websites** (http://www.csszengarden.com/)
 - **StyleStage - Examples CSS Websites** (https://stylestage.dev/styles/)
 - **CSS Gradients** - (https://cssgradient.io/)
+- **Palett Site** (https://colorhunt.co/)
 
 <h3> JavaScript Definitions </h3>
 
