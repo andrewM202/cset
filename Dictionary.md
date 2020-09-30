@@ -583,6 +583,8 @@
 
 <h3> CSS BORDERS </h3>
 
+- **border** ——>
+
 - **border-color** ——> (red)
 
 - **border-width** ——> (5px)
