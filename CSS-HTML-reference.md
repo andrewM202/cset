@@ -53,6 +53,8 @@ I will write down the CSS and HTML I want to remember here, and merge it with my
 
 - **transform** ——>
 
+- **overflow** ——> (visible, hidden, scroll, auto). If content overflows out of a container, this property controls how that overflow is handled
+
 <h3> Misc values </h3>
   
 - **em** - stands for elastic width, and it is a relative unit of measurement. 
