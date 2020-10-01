@@ -95,6 +95,28 @@ I will write down the CSS and HTML I want to remember here, and merge it with my
 
 - **rotate([0-1]turn)** ——> Used with transform
 
+<h4> Filters </h4>
+
+- filter: opacity()
+
+- filter: brightness()
+
+- filter: contrast()
+
+- filter: grayscale()
+
+- filter: drop-shadow()
+
+- filter: blur()
+
+- filter: url()
+
+- filter: hue-rotate()
+
+- filter: saturate()
+
+- filter: invert()
+
 <h3> @rules </h3>
 
 - **@import ‘stylesheetname’;** ——> imports a stylesheet into another stylesheet
