@@ -18,14 +18,6 @@ a:hover {
   color: pink;
 }
 
-section a:visited {
-  color: orange;
-}
-
-nav a:visited {
-  color: red;
-}
-
 /* Generic CSS above */
 
 /* CSS for header below */
@@ -84,7 +76,13 @@ nav {
   border-radius: 2%;
 }
 
+nav a:visited {
+  color: red;
+}
+
 /* CSS for nav and address above */
+
+/* CSS for sections below */
 
 section{
   border: 5px solid green;
@@ -96,6 +94,31 @@ section{
   text-align: center;
   border-radius: 2%;
 }
+
+section ul li {
+  font-size: 1.5em;
+  font-family: monospace;
+}
+
+section h2 {
+  color: blue;
+}
+
+section a:visited {
+  color: orange;
+}
+
+#education {
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+}
+
+section:nth-child(2n + 1) {
+  width: 50vw;
+  height: 40vh;
+}
+
+/* CSS for sections above */
 
 /* Aside CSS below */
 
