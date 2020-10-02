@@ -1,0 +1,139 @@
+
+/* Generic CSS below */
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #008075;
+  background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
+}
+
+a:hover {
+  color: pink;
+}
+
+section a:visited {
+  color: orange;
+}
+
+nav a:visited {
+  color: red;
+}
+
+/* Generic CSS above */
+
+/* CSS for header below */
+
+header {
+  margin: 0px auto;
+  margin-top: 5vh;
+  width: 30vw;
+  font-size: 2.5em;
+  text-align: center;
+  padding: 5px;
+  border: 5px solid purple;
+  border-radius: 5%;
+  background-color: rgb(108, 190, 204);
+}
+
+/* CSS for header above */
+
+/* CSS for nav and address below */
+
+nav ul li,
+address ul li {
+  color: white;
+  list-style-type: none;
+}
+
+nav h2,
+address p {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+address {
+  border: 5px solid red;
+  width: 30vw;
+  height: 15vh;
+  float: left;
+  margin-left: 10vw;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  text-align: center;
+  border-radius: 2%;
+}
+
+nav {
+  border: 5px solid red;
+  width: 30vw;
+  height: 15vh;
+  float: right;
+  margin-right: 10vw;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  text-align: center;
+  border-radius: 2%;
+}
+
+/* CSS for nav and address above */
+
+section{
+  border: 5px solid green;
+  width: 35vw;
+  height: 20vh;
+  margin: 0px auto;
+  overflow: scroll;
+  margin-top: 10vh;
+  text-align: center;
+  border-radius: 2%;
+}
+
+/* Aside CSS below */
+
+aside {
+  width: 80vw;
+  height: 50vh;
+  margin: 0px auto;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  background-color: #;
+  text-align: center;
+
+}
+
+aside h2 {
+  background-color: green;
+}
+
+aside figure img {
+  width: 40vw;
+  height: 40vh;
+  background-color: green;
+  opacity: 100%;
+  float: left;
+  margin-top: 5vh;
+  filter: drop-shadow(50%);
+}
+
+.image-right {
+  float: right;
+  width: 40vw;
+  height: 40vh;
+}
+
+.image-left {
+  float: left;
+  width: 40vw;
+  height: 40vh;
+}
+
+/* Aside CSS above */
