@@ -99,25 +99,25 @@ I will write down the CSS and HTML I want to remember here, and merge it with my
 
 <h4> FILTERS </h4>
 
-- filter: opacity()
+- **filter: opacity()**
 
-- filter: brightness()
+- **filter: brightness()**
 
-- filter: contrast()
+- **filter: contrast()**
 
-- filter: grayscale()
+- **filter: grayscale()**
 
-- filter: drop-shadow()
+- **filter: drop-shadow()**
 
-- filter: blur()
+- **filter: blur()**
 
-- filter: url()
+- **filter: url()**
 
-- filter: hue-rotate()
+- **filter: hue-rotate()**
 
-- filter: saturate()
+- **filter: saturate()**
 
-- filter: invert()
+- **filter: invert()**
 
 <h3> @rules </h3>
 
