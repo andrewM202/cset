@@ -232,9 +232,9 @@
 
 - **Metadata** - Metadata is written in the < head > tag.
 
-- **Block-level-elements / flow content** - Always drawn on a new line
+- **Block-level-elements / flow content** - Always drawn on a new line / occupy any available width, regardless of content
 
-- **Inline elements / phrasing content** - Can affect sections of text anywhere in a line
+- **Inline elements / phrasing content** - Can affect sections of text anywhere in a line /  occupy only the width its content requires
 
 - **Web typography** - refers to the appearance of all the text on your website
 
