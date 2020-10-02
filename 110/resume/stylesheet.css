@@ -42,6 +42,7 @@ nav ul li,
 address ul li {
   color: white;
   list-style-type: none;
+  font-size: 1.2em;
 }
 
 nav h2,
@@ -53,25 +54,23 @@ address p {
 }
 
 address {
-  border: 5px solid red;
-  width: 30vw;
-  height: 15vh;
   float: left;
   margin-left: 10vw;
-  margin-top: 10vh;
   margin-bottom: 10vh;
-  text-align: center;
-  border-radius: 2%;
 }
 
 nav {
+  float: right;
+  margin-right: 10vw;
+  margin-bottom: 10vh;
+}
+
+nav,
+address {
   border: 5px solid red;
   width: 30vw;
   height: 15vh;
-  float: right;
-  margin-right: 10vw;
   margin-top: 10vh;
-  margin-bottom: 10vh;
   text-align: center;
   border-radius: 2%;
 }
