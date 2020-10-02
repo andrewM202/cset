@@ -39,7 +39,19 @@ An example of only using class selectors:
 
 <br>
 
-- Specificity is what determines which selector is applied when multiple selectors apply to the same element. 
-For instance, in-line CSS is applied to an element over a selector in a CSS stylesheet that is selecting the same 
-element. The term cascade basically means that if two selectors have the same specificity, then the selector that 
-comes in last is the one that is applied.
+- Specificity, cascade, and inheritance are different things but are all related to each other. Specificity is what determines which property is applied when multiple selectors are targeting the same element, 
+and are both applying the same properties. For instance, a class or identity selector's properties will be 
+applied over the same properties in an element selector, 
+even if that element selector comes before the class or ID selector in the stylesheet. The term cascade basically means 
+that if two selectors have the same specificity and properties, then the selector that comes in last is the one whose properties
+is applied (as mentioned in the previous sentence).
+Finally, inheritance describes when a child element also gets the properties of its parent element. These concepts are useful to know
+in organizing CSS - it leads to a design of having general/broad selectors at the top of one's stylesheet, with more specific selectors at the bottom.
+For instance, I may use the universal selector `*` at the top of my stylesheet in order to set all my elements with a margin and padding of zero.
+Later on in my CSS, I can then have a div that has a margin of five pixels, and know that the five pixel value will be the one that is applied. 
+
+
+
+
+
+
