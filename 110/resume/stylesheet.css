@@ -150,14 +150,14 @@ aside figure img {
 
 .image-right {
   float: right;
-  width: 40vw;
-  height: 40vh;
+  border-radius: 10%;
+  border: 5px solid purple;
 }
 
 .image-left {
   float: left;
-  width: 40vw;
-  height: 40vh;
+  border-radius: 3%;
+  border: 5px solid orange;
 }
 
 /* Aside CSS above */
