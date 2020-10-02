@@ -97,7 +97,7 @@ I will write down the CSS and HTML I want to remember here, and merge it with my
 
 - **rotate([0-1]turn)** ——> Used with transform
 
-<h4> Filters </h4>
+<h4> FILTERS </h4>
 
 - filter: opacity()
 
@@ -124,6 +124,8 @@ I will write down the CSS and HTML I want to remember here, and merge it with my
 - **@import ‘stylesheetname’;** ——> imports a stylesheet into another stylesheet
 
 - **@media** ——> “Imports media queries, which use conditional logic for applying CSS styling”. For instance, @media (min-width: 25em) { … }, which applies the CSS in the curly brackets if the viewport is wider than 25em
+
+<h3> SELECTORS </h3>
 
 <h3> HTML Tags </h3>
 
