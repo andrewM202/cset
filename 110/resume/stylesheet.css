@@ -144,7 +144,9 @@ aside figure img {
   opacity: 100%;
   float: left;
   margin-top: 5vh;
-  filter: drop-shadow(50%);
+  filter: drop-shadow(16px 20px 16px red);
+  filter: grayscale(10%);
+  filter: invert(75%);
 }
 
 .image-right {
